@@ -5,13 +5,18 @@
     Tips:
         ⌘ /
         
-        Ctrl + \
+        alt + shif + a multiples lines
+        ctrl  + k + c o ctrl + }
 */
 
-const a = 10;
+/* const a = 10;
 const b = 20;
-const c = { a, b };
+const c = { a, b }; */
 
+
+// const a = 30;
+// const b = 40;
+// const c = { a, b };
 
 const a = 30;
 const b = 40;
