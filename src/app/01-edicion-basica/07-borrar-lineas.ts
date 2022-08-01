@@ -3,6 +3,7 @@
         Comentar un bloque de código
 
     Tips:
+        Borra toda una linea
         ⇧ ⌘ K
         Ctrl + Shift + K
 
@@ -13,12 +14,9 @@
 */
 
 let NoMeBorres = ':)';
-let Borrame = ':(';
 
 NoMeBorres = '1';
-Borrame    = 'a';
 NoMeBorres = '1';
-Borrame    = 'a';
 
 
 // Resultado final (sin los comentarios claro.)
