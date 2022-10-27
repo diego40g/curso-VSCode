@@ -12,6 +12,7 @@
         Ctrl + Shift + U
         Ctrl + Shift + L
 
+        Ctrl + flecha horizontal para avanzar hasta el espacio
     Pro:
         Mostrar la paleta de comandos
         ⇧ ⌘ P, F1
@@ -20,11 +21,11 @@
 
 function capitalizados() {
 
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
+    const hulk       = 'Brouce Banner';
+    const Hawkeye    = 'Cinton Francis';
+    const ironman    = 'Tony Stark';
+    const spiderman  = 'Peter Parker';
+    const viudaNegra = 'Natalia Romanova';
 
 }
 
